@@ -1,0 +1,6 @@
+age,gender,num_procedures,num_medications,time_in_hospital,target
+50,M,2,10,5,1
+60,F,1,8,3,0
+45,M,3,12,7,1
+30,F,0,5,2,0
+70,M,4,15,10,1
